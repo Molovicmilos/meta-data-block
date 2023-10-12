@@ -1,7 +1,7 @@
 {
-	"name": "data-store-demo",
+	"name": "metadata-block",
 	"version": "0.1.0",
-	"description": "Data store usage",
+	"description": "Meta Data store usage",
 	"author": "Molke",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
